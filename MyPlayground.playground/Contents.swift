@@ -65,7 +65,7 @@ print ("Hex= \(hexNum)) N Dec=\(decNum)")  //don't know how to change the format
 var structName = (typeA: 100 , typeB: "Default=100")
 print ("\(structName.typeA)")
 /*
- purpose is for Git Practice
+ purpose is for Git Practice Modify ++2
  */
 
 
